@@ -9,7 +9,7 @@ It’s built in C as part of the 42 curriculum, focusing on handling maps, playe
 - Avoid obstacles and reach the exit (`E`) to win.
 - The player is represented by `P`.
 
-## Example Map
+## Example Map [map.ber] 
 
 ![So_long Map Example](images/so_long.png)
 
