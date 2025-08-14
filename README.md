@@ -11,7 +11,7 @@ It’s built in C as part of the 42 curriculum, focusing on handling maps, playe
 
 ## Example Map
 
-![So_long Map Example](/home/so_long.png)
+![So_long Map Example](home/so_long.png)
 
 ## Features
 
