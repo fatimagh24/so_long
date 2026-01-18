@@ -18,3 +18,5 @@ It’s built in C as part of the 42 curriculum, focusing on handling maps, playe
 - Reads map files and validates their format.
 - Handles player movement and collision detection.
 - Simple graphical display using allowed libraries.
+
+
